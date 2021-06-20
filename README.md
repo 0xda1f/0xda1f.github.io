@@ -9,9 +9,8 @@ From Wikipedia, the free encyclopedia
 
 ###### note by `sikai lu`
 
-[title](0xda1f.github.io/lecture1.md)
 
-* ### search
+* ### [search](lecture1.md)
 finding a solution to a problem, grab a cat to catch a mouse. or figuring the next move when playing a game.
 
 * ### knowledge
