@@ -9,7 +9,7 @@ From Wikipedia, the free encyclopedia
 
 ###### note by `sikai lu`
 
-[title](https://www.example.com)
+[title](lecture1.md)
 
 * ### search
 finding a solution to a problem, grab a cat to catch a mouse. or figuring the next move when playing a game.
